@@ -81,32 +81,32 @@ The system uses comprehensive medical datasets:
 • Diet and workout plans  
 
 ### 🏗️ Project Structure  
-Medicine-Recommendation-System/
-│
-├── main.py                 # Flask application entry point
-├── requirements.txt        # Python dependencies
-├── Procfile               # Deployment configuration
-│
-├── models/
-│   └── svc.pkl            # Trained SVM model
-│
-├── datasets/
-│   ├── symptoms_df.csv    # Symptoms data
-│   ├── medications.csv    # Medicine recommendations
-│   ├── precautions_df.csv # Safety precautions
-│   ├── description.csv    # Disease descriptions
-│   ├── diets.csv          # Diet recommendations
-│   └── workout_df.csv     # Exercise plans
-│
-├── templates/
-│   ├── index.html         # Main application page
-│   ├── about.html         # About page
-│   ├── contact.html       # Contact information
-│   ├── developer.html     # Developer info
-│   └── blog.html          # Health blog
-│
-└── static/
-    └── img.png            # Application logo
+Medicine-Recommendation-System/   
+│ 
+├── main.py                 # Flask application entry point   
+├── requirements.txt        # Python dependencies   
+├── Procfile               # Deployment configuration   
+│  
+├── models/  
+│   └── svc.pkl            # Trained SVM model  
+│   
+├── datasets/   
+│   ├── symptoms_df.csv    # Symptoms data   
+│   ├── medications.csv    # Medicine recommendations   
+│   ├── precautions_df.csv # Safety precautions   
+│   ├── description.csv    # Disease descriptions   
+│   ├── diets.csv          # Diet recommendations   
+│   └── workout_df.csv     # Exercise plans  
+│   
+├── templates/   
+│   ├── index.html         # Main application page    
+│   ├── about.html         # About page   
+│   ├── contact.html       # Contact information   
+│   ├── developer.html     # Developer info   
+│   └── blog.html          # Health blog   
+│   
+└── static/   
+    └── img.png            # Application logo   
 
 
 ### 🤝 Contributing
