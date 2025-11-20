@@ -18,10 +18,9 @@ A intelligent AI-powered medical recommendation system that predicts diseases ba
 - **💡 Comprehensive Recommendations** - Medicines, diets, workouts, and precautions
 
 ## 🚀 Live Demo
+[![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-5a67d8?style=for-the-badge&logo=render)](https://render.com)
 
-[![Deployed on Render]
-
-**Live Application:** [https://medicine-recommendation-system-1-77gk.onrender.com/]()
+**Live Application:** [https://medicine-recommendation-system-1-77gk.onrender.com/](https://medicine-recommendation-system-1-77gk.onrender.com/)
 
 ## 🛠️ Tech Stack
 
