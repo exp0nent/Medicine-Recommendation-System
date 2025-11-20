@@ -19,9 +19,9 @@ A intelligent AI-powered medical recommendation system that predicts diseases ba
 
 ## 🚀 Live Demo
 
-[![Deployed on Render](Work in progress)
+[![Deployed on Render]
 
-**Live Application:** []()
+**Live Application:** [https://medicine-recommendation-system-1-77gk.onrender.com/]()
 
 ## 🛠️ Tech Stack
 
