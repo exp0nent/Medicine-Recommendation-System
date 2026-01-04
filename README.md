@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 • Email: aatirali18@gmail.com
 • Portfolio: In progress
 
-### 🙏 Acknowledgments
+### 🙏 Acknowledgments 
 • Medical datasets from publicly available sources
 • Flask community for excellent documentation
 • Scikit-learn for robust ML algorithms
